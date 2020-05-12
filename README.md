@@ -1,2 +1,2 @@
-# secc-accl.github.io
-accl.secc-chicago.org website files
+# public
+public facing website for ACCL (Arts &amp; Culture Capital Lab)
